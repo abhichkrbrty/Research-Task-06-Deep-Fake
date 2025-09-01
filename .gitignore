@@ -1,0 +1,12 @@
+# Ignore datasets
+data/*.csv
+
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Python junk
+__pycache__/
+*.pyc
